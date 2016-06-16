@@ -7,6 +7,10 @@ Function will also open the default web server URL (http://0.0.0.0:8000) in the 
 
 This is an extremely handy way to quickly test code in a server environment, especially when working with cross-domain functionality that will not work from localhost/local file server.
 
+By default this is invokved in Alfred via the `.webserver` command.
+
+Confirmed working in Alfred v3.
+
 Borrows Terminal Finder functionality from Chris Yip's "Terminal Here" workflow: [chrisyip.im]
 
 [chrisyip.im]: http://chrisyip.im/
